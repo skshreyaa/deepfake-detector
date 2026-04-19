@@ -30,8 +30,14 @@ tensorflow
 numpy
 Pillow
 
+## Colab Link
+https://colab.research.google.com/drive/1xCXxIyRyBkHlkdBQkz6b61WZd3KVhvM1?usp=sharing
+
+## Dataset link
+https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
+
 ## Team:
-P S Sumiya
-R Manasa
-S K Shreya
+P S Sumiya, 
+R Manasa, 
+S K Shreya, 
 Shaik Noor Zoya Mariam
