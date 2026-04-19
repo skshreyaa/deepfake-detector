@@ -29,3 +29,9 @@ gradio
 tensorflow
 numpy
 Pillow
+
+## Team:
+P S Sumiya
+R Manasa
+S K Shreya
+Shaik Noor Zoya Mariam
