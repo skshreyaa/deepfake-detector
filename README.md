@@ -29,7 +29,3 @@ gradio
 tensorflow
 numpy
 Pillow
-
-
-## Live Demo
-https://huggingface.co/spaces/shreya01py/deepfake-detector
